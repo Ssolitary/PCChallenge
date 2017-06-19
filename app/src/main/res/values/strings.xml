@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PCChallenge</string>
+    <string name="company_name">Personal Capital</string>
+
+    <string name="top_article_header">Research &amp; Insights</string>
+    <string name="article_header">Previous Articles</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_failed">Loading failed.</string>
+    <string name="retry">Retry</string>
+</resources>
